@@ -2,9 +2,8 @@
 
 <!--
 **emochka2007/emochka2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=emochka2007)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
-[![emochka2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=emochka2007)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
