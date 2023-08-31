@@ -1,9 +1,10 @@
 ### Hi there 👋
-🦋 Freelancer Portfolio
+### 🕷 Freelancer from Moscow
 Currently working on the following projects:
 
-🌱[godman.tech](https://godman.tech)
-🌱[vd.fitvend.fit](https://vd.fitvend.fit/)
+- 🖤 [Godman](https://godman.tech)
+- 🖤 [Fitvend](https://vd.fitvend.fit/)
+- 🖤 [GPT in Russia](https://www.chat-gpt-v-rossii.com/)
 <!--
 **emochka2007/emochka2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=emochka2007)]
