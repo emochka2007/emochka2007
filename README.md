@@ -2,8 +2,8 @@
 🦋 Freelancer Portfolio
 Currently working on the following projects:
 
-godman.tech
-vd.fitvend.fit
+[godman.tech](https://godman.tech)
+[vd.fitvend.fit](https://vd.fitvend.fit/)
 <!--
 **emochka2007/emochka2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=emochka2007)]
