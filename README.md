@@ -1,4 +1,3 @@
-### Hi there 👋
 ### 🕷 Freelancer from Moscow
 Currently working on the following projects:
 
