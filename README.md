@@ -4,6 +4,7 @@ Currently working on the following projects:
 - 🖤 [Godman](https://godman.tech)
 - 🖤 [Fitvend](https://vd.fitvend.fit/)
 - 🖤 [GPT in Russia](https://www.chat-gpt-v-rossii.com/)
+- 🖤 [TextPolimer](https://texpolimer.pro/)
 <!--
 **emochka2007/emochka2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=emochka2007)]
