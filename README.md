@@ -24,6 +24,9 @@ Bash                          9 hrs 23 mins   ▒░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+🦊 GITLAB STATS
+
 <!--START_SECTION:emo-gitlab-->
 <!--END_SECTION:emo-gitlab-->
 | Month | Contributions | Progress | 
