@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 08 May 2024
+From: 21 August 2023 - To: 09 May 2024
 
-Total Time: 711 hrs 55 mins
+Total Time: 719 hrs 55 mins
 
-TypeScript                    612 hrs 36 mins █████████████████████▓░░░   86.02 %
-YAML                          18 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-JSON                          13 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Prisma                        9 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Bash                          9 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TypeScript                    618 hrs 14 mins █████████████████████▒░░░   85.85 %
+YAML                          18 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JSON                          14 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Prisma                        10 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Bash                          9 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
