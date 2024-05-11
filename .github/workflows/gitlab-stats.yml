@@ -1,19 +1,21 @@
 name: Gitlab Stats update
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'  # Runs at midnight UTC every day
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout emochka2007 repository
+      - name: Checkout ${{ github.event.repository.name }} repository
         uses: actions/checkout@v2
         with:
-          path: 'emochka2007'
+          path: ${{ github.event.repository.name }}
 
       - name: Checkout gitlab-stats repository
         uses: actions/checkout@v2
@@ -30,20 +32,20 @@ jobs:
           override: true
 
       - name: Build and run Rust application
-        run: cargo run > ../emochka2007/output.md
+        run: cargo run > ../${{ github.event.repository.name }}/output.md
         working-directory: gitlab_stats
 
       - name: Update README
         run: |
             sed -i '/^<!--START_SECTION:emo-gitlab-->$/,/^<!--END_SECTION:emo-gitlab-->/{//!d;}' README.md
-            sed -i '/^<!--START_SECTION:emo-gitlab-->/r ./output.md' README.md
-        working-directory: emochka2007
+            sed -i '/^<!--END_SECTION:emo-gitlab-->/r ./output.md' README.md
+        working-directory: ${{ github.event.repository.name }}
 
       - name: Commit and push changes
         run: |
-            git config --global user.name 'emochka2007'
-            git config --global user.email 'nikitapoznyakov@gmail.com'
+            git config --global user.name ${{ github.actor }}
+            git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
             git add README.md
             git commit -m "Updated README with new stats"
             git push
-        working-directory: emochka2007
+        working-directory: ${{ github.event.repository.name }}
