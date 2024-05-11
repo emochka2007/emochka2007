@@ -23,3 +23,7 @@ Bash                          9 hrs 23 mins   ▒░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:emo-gitlab-->
+
+<!--END_SECTION:emo-gitlab-->
