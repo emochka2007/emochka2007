@@ -36,7 +36,7 @@ jobs:
       - name: Update README
         run: |
             sed -i '/^<!--START_SECTION:emo-gitlab-->$/,/^<!--END_SECTION:emo-gitlab-->/{//!d;}' README.md
-            sed -i '/^<!--END_SECTION:emo-gitlab-->/r ./output.md' README.md
+            sed -i '/^<!--START_SECTION:emo-gitlab-->/r ./output.md' README.md
         working-directory: ${{ github.event.repository.name }}
 
       - name: Commit and push changes
