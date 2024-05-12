@@ -30,7 +30,7 @@ jobs:
           override: true
 
       - name: Build and run Rust application
-        run: cargo run > ../${{ github.event.repository.name }}/output.md
+        run: cargo run ${{ secrets.GITLAB_USERNAME }} > ../${{ github.event.repository.name }}/output.md
         working-directory: gitlab_stats
 
       - name: Update README
