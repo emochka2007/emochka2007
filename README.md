@@ -6,17 +6,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 31 May 2024
+From: 21 August 2023 - To: 01 June 2024
 
-Total Time: 792 hrs 58 mins
+Total Time: 793 hrs 36 mins
 
-TypeScript                    661 hrs 17 mins █████████████████████░░░░   83.37 %
+TypeScript                    661 hrs 17 mins ████████████████████▓░░░░   83.30 %
 YAML                          19 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-C                             14 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON                          14 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+C                             15 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+JSON                          14 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 Prisma                        13 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 Bash                          9 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-.env file                     9 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+.env file                     9 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 Docker                        8 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
