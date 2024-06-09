@@ -1,5 +1,4 @@
 ### 🕷 backender/ blockchain
-- working at [Margex](https://margex.com/en)
 - **telegram** @emoww
 - **mail** nikita.poznyakov@gmail.com
 
