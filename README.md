@@ -5,17 +5,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 20 January 2025
+From: 21 August 2023 - To: 21 January 2025
 
-Total Time: 1,466 hrs 12 mins
+Total Time: 1,472 hrs 46 mins
 
-TypeScript                    919 hrs 38 mins ███████████████▓░░░░░░░░░   62.50 %
-Rust                          114 hrs 33 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Markdown                      73 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-C                             60 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Terraform                     28 hrs 36 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Prisma                        23 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Tact                          19 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TypeScript                    922 hrs 28 mins ███████████████▓░░░░░░░░░   62.41 %
+Rust                          116 hrs 37 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Markdown                      73 hrs 26 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+C                             60 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Terraform                     29 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Prisma                        23 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Tact                          19 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
