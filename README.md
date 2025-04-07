@@ -1,6 +1,4 @@
 ### 🕷 backender/ blockchain
-- **telegram** @emoww
-- **mail** nikita.poznyakov@gmail.com
 
 <!--START_SECTION:waka-->
 
