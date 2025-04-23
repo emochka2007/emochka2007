@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 20 April 2025
+From: 21 August 2023 - To: 21 April 2025
 
-Total Time: 1,796 hrs 1 min
+Total Time: 1,796 hrs 6 mins
 
 TypeScript                    1,013 hrs 21 mins██████████████░░░░░░░░░░░   56.25 %
 Rust                          201 hrs 16 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
