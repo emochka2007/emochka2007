@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 07 October 2025
+From: 21 August 2023 - To: 09 October 2025
 
-Total Time: 2,256 hrs 22 mins
+Total Time: 2,261 hrs 23 mins
 
-TypeScript                    1,167 hrs 44 mins█████████████░░░░░░░░░░░░   51.57 %
-Rust                          316 hrs 55 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Elixir                        123 hrs 49 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Markdown                      103 hrs 49 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-C                             60 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Terraform                     49 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-SQL                           31 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+TypeScript                    1,171 hrs 32 mins█████████████░░░░░░░░░░░░   51.63 %
+Rust                          316 hrs 57 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+Elixir                        123 hrs 49 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Markdown                      103 hrs 50 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+C                             60 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Terraform                     49 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+SQL                           31 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
