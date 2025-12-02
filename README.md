@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 29 November 2025
+From: 21 August 2023 - To: 01 December 2025
 
-Total Time: 2,404 hrs 51 mins
+Total Time: 2,411 hrs 36 mins
 
-TypeScript                    1,232 hrs 19 mins████████████▓░░░░░░░░░░░░   51.08 %
-Rust                          360 hrs 34 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Elixir                        123 hrs 49 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Markdown                      112 hrs 35 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+TypeScript                    1,232 hrs 27 mins████████████▓░░░░░░░░░░░░   50.94 %
+Rust                          366 hrs 53 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Elixir                        123 hrs 49 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Markdown                      112 hrs 39 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 C                             60 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 Terraform                     49 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-.env file                     35 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+.env file                     35 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
