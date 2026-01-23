@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 20 January 2026
+From: 21 August 2023 - To: 21 January 2026
 
-Total Time: 2,582 hrs 15 mins
+Total Time: 2,583 hrs 46 mins
 
-TypeScript                    1,257 hrs 21 mins████████████░░░░░░░░░░░░░   48.54 %
-Rust                          479 hrs 27 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+TypeScript                    1,257 hrs 46 mins████████████░░░░░░░░░░░░░   48.53 %
+Rust                          479 hrs 31 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
 Elixir                        123 hrs 49 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Markdown                      119 hrs 56 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Markdown                      119 hrs 57 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 C                             60 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 Terraform                     49 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 SQL                           32 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
