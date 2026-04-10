@@ -14,8 +14,8 @@ Markdown                      123 hrs 37 mins       █░░░░░░░░�
 C                             60 hrs 40 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 Terraform                     49 hrs 34 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 SQL                           32 hrs 7 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-[![How to prove it](https://wakatime.com/badge/user/7c9eca3e-19b7-4f91-b93b-ffbeed762d6a/project/a8dab7f5-bbfb-4c57-a459-3a1038b84d01.svg)](https://wakatime.com/badge/user/7c9eca3e-19b7-4f91-b93b-ffbeed762d6a/project/a8dab7f5-bbfb-4c57-a459-3a1038b84d01)
 ```
+[![How to prove it](https://wakatime.com/badge/user/7c9eca3e-19b7-4f91-b93b-ffbeed762d6a/project/a8dab7f5-bbfb-4c57-a459-3a1038b84d01.svg)](https://wakatime.com/badge/user/7c9eca3e-19b7-4f91-b93b-ffbeed762d6a/project/a8dab7f5-bbfb-4c57-a459-3a1038b84d01)
 
 <!--END_SECTION:waka-->
 
