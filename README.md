@@ -1,4 +1,4 @@
-### 🕷 backender/ blockchain
+### latex & markdown developer
 
 <!--START_SECTION:waka-->
 
